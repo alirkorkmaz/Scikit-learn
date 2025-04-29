@@ -8,10 +8,3 @@ from sklearn.ensemble import (
     VotingClassifier,
     BaggingClassifier
 )
-
-
-
-'''
-RandomForestClassifier:
-birçok Decision Tree modelini bir araya getirip onların ortak kararını veren bir topluluk (esemble) yöntemdir.
-'''
